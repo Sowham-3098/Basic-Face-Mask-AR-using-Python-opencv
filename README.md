@@ -27,7 +27,7 @@ Face Mask AR is a Python program that detects faces in a live video stream and a
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](https://github.com/Sowham-3098/Basic-Face-Mask-AR-using-Python-opencv/blob/main/screenshot1.png)
 *Example screenshot of the program displaying the live video stream with a detected face and a mask augmented on it.*
 
 
