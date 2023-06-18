@@ -26,8 +26,8 @@ Face Mask AR is a Python program that detects faces in a live video stream and a
 6. To choose a different mask, press the "Q" key to exit the program and update the `mask.png` file with your desired mask image.
 
 ## Screenshots
+![screenshot](https://github.com/Sowham-3098/Basic-Face-Mask-AR-using-Python-opencv/assets/95470604/a6340c86-ddc0-45b5-ae0c-17e185b66e2c)
 
-![Screenshot 1](https://github.com/Sowham-3098/Basic-Face-Mask-AR-using-Python-opencv/blob/main/screenshot1.png)
 *Example screenshot of the program displaying the live video stream with a detected face and a mask augmented on it.*
 
 
