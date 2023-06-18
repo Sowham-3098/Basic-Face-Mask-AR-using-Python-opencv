@@ -5,7 +5,7 @@ import numpy as np
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
 # Take the mask image which you want to augment over your face with transparent background
-mask = cv2.imread('mask.png', cv2.IMREAD_UNCHANGED)
+mask = cv2.imread('mask.jpg', cv2.IMREAD_UNCHANGED)
 
 # Initialize the video capture
 cap = cv2.VideoCapture(0)
